@@ -9,4 +9,6 @@ An android application that is used to extract certain piece of information such
 
 # Screens
 
+   - Splash Screen is created with modern animations
+
  ![](/splash0.png?raw=true)          ![](/screen.png?raw=true)
