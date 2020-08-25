@@ -9,4 +9,4 @@ An android application that is used to extract certain piece of information such
 
 # Screens
 
-   ![](/splash.PNG?raw=true)                                               ![](/screen1.PNG?raw=true)
+   ![](/splash.PNG?raw=true)                             ![](/screen1.PNG?raw=true)
