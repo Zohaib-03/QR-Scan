@@ -1,6 +1,6 @@
-# QR-Scan
+ # QR-Scan
 
-An android application that is used to extract certain piece of information such as messages,numbers,URL encoded within block of matrix known as QR Code. It is built with implementing QReader library which provides an easy and simple API to retrieve information from QR Code quickly.
+An android application that is used to extract certain piece of information such as messages, numbers ,URL encoded within block of matrix known as QR Code. It is built with implementing QReader library which provides an easy and simple API to retrieve information from QR Code quickly.
 
 # Features
 
@@ -9,6 +9,6 @@ An android application that is used to extract certain piece of information such
 
 # Screens
 
-   - Splash Screen is created with modern animations
+   - Splash Screen is created with modern animations.
 
  ![](/splash0.png?raw=true)          ![](/screen.png?raw=true)
