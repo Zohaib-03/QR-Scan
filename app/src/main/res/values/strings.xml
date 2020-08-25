@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Scan</string>
+    <string name="todo">TODO</string>
+    <string name="scan_to_shop">Scan to Shop</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="scan_to_crack">Scan to Crack</string>
+</resources>
